@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+This is a new one. So let's see where it goes from here.
